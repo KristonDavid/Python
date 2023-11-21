@@ -1,3 +1,8 @@
+# Projekt állapota
+
+1. elkezdük a közös munkát
+2. csuhaj
+
 # Címsor1
 ## Címsor 2
 ### Címsor 3

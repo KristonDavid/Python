@@ -3,5 +3,10 @@
         "id": 1,
         "user": "admin",
         "pass": "1234"
+    },
+    {
+        "id": 2,
+        "user": "gambit",
+        "pass": "asdasd"
     }
 ]
