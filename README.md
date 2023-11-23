@@ -1,3 +1,5 @@
+# Hello, mi!
+
 # Projekt állapota
 
 1. elkezdük a közös munkát
