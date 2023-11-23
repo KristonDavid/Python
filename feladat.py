@@ -8,3 +8,5 @@ with open("database.json", "r", encoding="utf8") as fájl:
 
 # tesztelt
 print(adatbazis)
+
+# 1. feladat
