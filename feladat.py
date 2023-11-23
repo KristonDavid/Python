@@ -1,12 +1,15 @@
+# modul importálása
 import json
 
+# adatbázis szimláció
 adatbazis = []
 
-# hoppákupon
+# fájlkezelése
 with open("database.json", "r", encoding="utf8") as fájl:
+
+    # feldolgozás
     adatbazis = json.load(fájl)
 
-# tesztelt
+# tesztel!
 print(adatbazis)
 
-# 1. feladat
